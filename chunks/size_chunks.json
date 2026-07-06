@@ -1,0 +1,134 @@
+[
+  {
+    "chunk_id": "faq.md_size_0",
+    "source": "faq.md",
+    "heading": "chunk_0",
+    "content": "# Frequently Asked Questions \u2014 LexTech Support ## What is LexTech? LexTech is a cloud-based project management software that helps teams collaborate, track tasks, and manage deadlines in real time. ## How do I create an account? To create a LexTech account: 1. Go to www.lextech.com/signup 2. Enter your work email address 3. Choose a password that is at least 8 characters long 4. Click the \"Create Account\" button 5. Check your email for a verification link and click it ## How much does LexTech cost? LexTech offers three pricing plans: - Free Plan: Up to 3 users, 5 projects, 1GB storage - Pro Plan: $12 per user per month, unlimited projects, 50GB storage - Enterprise Plan: Custom pricing, unlimited everything, dedicated support ## Can I cancel my subscription anytime? Yes. You can cancel your subscription at any time from your Account Settings page. Your access continues until the end",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 895,
+    "start_word": 0,
+    "end_word": 150
+  },
+  {
+    "chunk_id": "faq.md_size_1",
+    "source": "faq.md",
+    "heading": "chunk_1",
+    "content": "everything, dedicated support ## Can I cancel my subscription anytime? Yes. You can cancel your subscription at any time from your Account Settings page. Your access continues until the end of your current billing period. No refunds are given for partial months. ## Does LexTech work on mobile? Yes. LexTech has mobile apps for both iOS and Android. You can download them from the App Store or Google Play Store. All features available on desktop are also available on mobile. ## How do I contact support? You can contact LexTech support in three ways: - Live chat: Available 9am to 6pm EST Monday through Friday - Email: support@lextech.com (response within 24 hours) - Phone: 1-800-LEX-TECH (Enterprise plan customers only)",
+    "strategy": "fixed_size",
+    "word_count": 119,
+    "char_count": 725,
+    "start_word": 120,
+    "end_word": 239
+  },
+  {
+    "chunk_id": "onboarding.md_size_0",
+    "source": "onboarding.md",
+    "heading": "chunk_0",
+    "content": "# New User Onboarding Guide \u2014 LexTech ## Welcome to LexTech! This guide will help you get started in your first 30 minutes. ## Step 1: Set Up Your Profile (5 minutes) 1. Click your avatar in the top right corner 2. Select \"Edit Profile\" 3. Add your full name, job title, and profile photo 4. Set your timezone so deadlines show correctly for you 5. Click Save ## Step 2: Create Your First Project (10 minutes) 1. Click the blue \"New Project\" button on your dashboard 2. Enter a project name and description 3. Choose a project color for easy identification 4. Set the project start date and deadline 5. Click \"Create Project\" ## Step 3: Invite Your Team (5 minutes) 1. Open your project 2. Click \"Members\" in the left sidebar 3. Click \"Invite Member\" 4. Enter your teammate's email address 5. Choose their role: Viewer, Editor, or",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 830,
+    "start_word": 0,
+    "end_word": 150
+  },
+  {
+    "chunk_id": "onboarding.md_size_1",
+    "source": "onboarding.md",
+    "heading": "chunk_1",
+    "content": "(5 minutes) 1. Open your project 2. Click \"Members\" in the left sidebar 3. Click \"Invite Member\" 4. Enter your teammate's email address 5. Choose their role: Viewer, Editor, or Admin 6. Click Send Invite Your teammate will receive an email invitation within 5 minutes. ## Step 4: Create Your First Task (10 minutes) 1. Inside your project, click \"Add Task\" 2. Enter the task name 3. Assign it to a team member 4. Set a due date 5. Add a priority level: Low, Medium, High, or Critical 6. Click Save ## User Roles Explained - Viewer: Can see tasks but cannot edit anything - Editor: Can create and edit tasks but cannot manage members - Admin: Full access including member management and project settings - Owner: The person who created the project, has all permissions ## Getting Help If you get stuck at any point: - Click the \"?\"",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 830,
+    "start_word": 120,
+    "end_word": 270
+  },
+  {
+    "chunk_id": "onboarding.md_size_2",
+    "source": "onboarding.md",
+    "heading": "chunk_2",
+    "content": "member management and project settings - Owner: The person who created the project, has all permissions ## Getting Help If you get stuck at any point: - Click the \"?\" icon in the bottom right corner for instant help - Visit our help center at help.lextech.com - Email support@lextech.com",
+    "strategy": "fixed_size",
+    "word_count": 49,
+    "char_count": 287,
+    "start_word": 240,
+    "end_word": 289
+  },
+  {
+    "chunk_id": "refund_policy.md_size_0",
+    "source": "refund_policy.md",
+    "heading": "chunk_0",
+    "content": "# Refund Policy \u2014 LexTech ## Standard Refund Policy LexTech offers a 14-day money-back guarantee for all new Pro Plan subscriptions. If you are not satisfied within the first 14 days, contact support@lextech.com for a full refund. No questions asked. ## What is NOT refundable The following are not eligible for refunds: - Subscriptions older than 14 days - Enterprise plan setup fees - Add-on purchases such as extra storage - Accounts that violated LexTech Terms of Service ## How to Request a Refund 1. Email support@lextech.com with subject line \"Refund Request\" 2. Include your account email and order number 3. Explain the reason for your refund request 4. Our team will process it within 5 business days 5. Refunds appear on your statement within 7-10 business days ## Refunds for Annual Plans If you purchased an annual plan: - Within 14 days: Full refund - Between 14 and 30",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 883,
+    "start_word": 0,
+    "end_word": 150
+  },
+  {
+    "chunk_id": "refund_policy.md_size_1",
+    "source": "refund_policy.md",
+    "heading": "chunk_1",
+    "content": "appear on your statement within 7-10 business days ## Refunds for Annual Plans If you purchased an annual plan: - Within 14 days: Full refund - Between 14 and 30 days: 50% refund - After 30 days: No refund, but you keep access until end of year ## Disputed Charges If you see a charge you do not recognize, contact support@lextech.com immediately. We will investigate and respond within 48 hours.",
+    "strategy": "fixed_size",
+    "word_count": 70,
+    "char_count": 396,
+    "start_word": 120,
+    "end_word": 190
+  },
+  {
+    "chunk_id": "security_policy.md_size_0",
+    "source": "security_policy.md",
+    "heading": "chunk_0",
+    "content": "# Security Policy \u2014 LexTech ## Password Requirements All LexTech passwords must meet these requirements: - Minimum 8 characters long - At least one uppercase letter - At least one number - At least one special character such as ! @ # $ - Cannot be the same as your last 5 passwords ## Two-Factor Authentication (2FA) LexTech strongly recommends enabling 2FA on all accounts. Enterprise plan accounts have mandatory 2FA enforced by default. To enable 2FA: 1. Go to Account Settings 2. Click Security 3. Click Enable Two-Factor Authentication 4. Choose SMS or Authenticator App 5. Follow the setup steps ## Data Encryption All data stored in LexTech is encrypted using AES-256 encryption. All data transmitted between your browser and LexTech is encrypted using TLS 1.3. ## Session Management - Sessions automatically expire after 30 days of inactivity - You can log out all devices from Account Settings \u2192",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 904,
+    "start_word": 0,
+    "end_word": 150
+  },
+  {
+    "chunk_id": "security_policy.md_size_1",
+    "source": "security_policy.md",
+    "heading": "chunk_1",
+    "content": "and LexTech is encrypted using TLS 1.3. ## Session Management - Sessions automatically expire after 30 days of inactivity - You can log out all devices from Account Settings \u2192 Security \u2192 Active Sessions - If you suspect unauthorized access, change your password immediately and contact security@lextech.com ## Reporting Security Issues If you discover a security vulnerability in LexTech: - Email security@lextech.com immediately - Do not share the vulnerability publicly before we fix it - We will respond within 24 hours and credit you in our security hall of fame",
+    "strategy": "fixed_size",
+    "word_count": 90,
+    "char_count": 566,
+    "start_word": 120,
+    "end_word": 210
+  },
+  {
+    "chunk_id": "troubleshooting.md_size_0",
+    "source": "troubleshooting.md",
+    "heading": "chunk_0",
+    "content": "# Troubleshooting Guide \u2014 LexTech ## I cannot log into my account ### Reason 1: Wrong password If you forgot your password: 1. Go to www.lextech.com/login 2. Click \"Forgot Password\" 3. Enter your email address 4. Check your email for a reset link 5. Click the link and create a new password The reset link expires after 30 minutes. ### Reason 2: Account locked Your account gets locked after 5 failed login attempts. To unlock it, wait 15 minutes and try again, or contact support@lextech.com. ### Reason 3: Email not verified If you just created your account, check your inbox for a verification email. Check your spam folder if you do not see it. ## My dashboard is loading slowly This usually happens because of one of these reasons: - Too many browser tabs open \u2014 close unused tabs - Slow internet connection \u2014 check your connection speed - Browser",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 852,
+    "start_word": 0,
+    "end_word": 150
+  },
+  {
+    "chunk_id": "troubleshooting.md_size_1",
+    "source": "troubleshooting.md",
+    "heading": "chunk_1",
+    "content": "This usually happens because of one of these reasons: - Too many browser tabs open \u2014 close unused tabs - Slow internet connection \u2014 check your connection speed - Browser cache is full \u2014 clear your browser cache and cookies - Outdated browser \u2014 update your browser to the latest version To clear cache in Chrome: Settings \u2192 Privacy \u2192 Clear Browsing Data \u2192 Cached Images and Files ## I cannot upload a file LexTech supports these file types: PDF, PNG, JPG, DOCX, XLSX, CSV Maximum file size is 25MB on Free plan and 100MB on Pro and Enterprise plans. If your upload fails: 1. Check the file size is within your plan limit 2. Check the file type is supported 3. Try a different browser 4. If the problem continues, email support@lextech.com with error code ERR_UPLOAD_FAIL ## Two-factor authentication (2FA) is not working If you are not receiving your",
+    "strategy": "fixed_size",
+    "word_count": 150,
+    "char_count": 849,
+    "start_word": 120,
+    "end_word": 270
+  },
+  {
+    "chunk_id": "troubleshooting.md_size_2",
+    "source": "troubleshooting.md",
+    "heading": "chunk_2",
+    "content": "supported 3. Try a different browser 4. If the problem continues, email support@lextech.com with error code ERR_UPLOAD_FAIL ## Two-factor authentication (2FA) is not working If you are not receiving your 2FA code: 1. Check that your phone number is correct in Account Settings 2. Wait 60 seconds and request a new code 3. Check your spam folder if using email 2FA 4. If using an authenticator app, make sure your phone clock is synced To reset 2FA completely: 1. Contact support@lextech.com 2. Provide your account email and employee ID 3. Support will verify your identity and reset 2FA within 2 hours",
+    "strategy": "fixed_size",
+    "word_count": 101,
+    "char_count": 602,
+    "start_word": 240,
+    "end_word": 341
+  }
+]
